@@ -22,7 +22,7 @@ However, attackers can bypass this protection by doubling the "../" sequence lik
 Below is a simple PoC:
 http://127.0.0.1/api/BetterImageGallery/imagehandler?path=....//....//sqlitedb/initdb.config
 
-![](attachments/poc.png)
+![](attachments/poc.jpg)
 
 
 
